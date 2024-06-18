@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canva</title>
+    <style>
+        #canvas {
+            height: 700px;
+            width: 700px;
+            border: 4px dashed #303841;
+            background-color: rgb(0, 173, 181);
+        }
+        #tic-tac-toe-board {
+  display: block;
+  margin: 0 auto;
+}
+
+.xo {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
+    </style>
+
+</head>
+<body>
+    <canvas id="canvas" width="700" height="700">can not supported</canvas>
+    <div style="display:none;">
+        <img id="source"
+             src="./memory Game/1.gif"
+             alt=""
+             width="300" height="227">
+      </div>
+
+        <div class="xo">
+          <canvas id="tic-tac-toe-board" class="center-v"></canvas>
+        </div>
+
+</body>
+<script src="task.js"></script>
+</html>
