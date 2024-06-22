@@ -7,7 +7,8 @@
 ### Bomb Star Collect
 - **Gameplay Mechanics:** Collect stars while avoiding bombs.
 - **Scoring System:** Earn points for each star collected.
-![image](https://github.com/khaled71612000/Phaser-Mini-Games/assets/59780800/c13963a5-e617-4721-bb55-82ab419fb53f)
+![image](https://github.com/khaled71612000/Phaser-Mini-Games/assets/59780800/5adbe2cb-17ad-411d-96f8-c5f131da5b7f)
+
 
 ### Ninja Platform
 - **Platforming:** Navigate through platforms with a ninja character.
@@ -17,7 +18,8 @@
 ### Phaser Pong
 - **Classic Pong:** Traditional Pong gameplay with enhanced graphics.
 - **Coop:** Supports two-player mode.
-![image](https://github.com/khaled71612000/Phaser-Mini-Games/assets/59780800/08a98bb9-dc99-4a03-85f2-bd9b7c996402)
+![image](https://github.com/khaled71612000/Phaser-Mini-Games/assets/59780800/940bbe0a-6712-421c-b494-9646dc3ed260)
+
 
 ### Ping Ball
 - **Bounce Mechanics:** Control a ball to hit targets.
@@ -31,11 +33,13 @@
 ### VerticDrawEmoji
 - **Puzzle Game:** Match emojis in a vertical draw.
 - **Increasing Difficulty:** Levels become more challenging over time.
+![image](https://github.com/khaled71612000/Phaser-Mini-Games/assets/59780800/34d705f6-7f96-4f37-b72a-fdcbcdda80c2)
 
 ### XO
 - **Tic-Tac-Toe:** Classic Tic-Tac-Toe gameplay.
 - **AI Opponent:** Play against an AI or another player.
-![image](https://github.com/khaled71612000/Phaser-Mini-Games/assets/59780800/b58c7f3c-0317-4c11-8848-9456529fdec1)
+![image](https://github.com/khaled71612000/Phaser-Mini-Games/assets/59780800/833527c3-8a2c-48be-9fdb-ceeaada9bf92)
+
 
 ## Features
 
