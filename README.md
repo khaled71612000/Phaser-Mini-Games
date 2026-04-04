@@ -67,6 +67,17 @@ This project serves as an excellent example for developers interested in creatin
 
 ![Screenshot 5](https://raw.githubusercontent.com/khaled71612000/Phaser-Mini-Games/HEAD/Bomb Star Collect/assets/star.png)
 
+
+## Tech Stack
+
+| Technology | Role |
+|---|---|
+| Phaser 3 | 2D game framework |
+| JavaScript | Game logic |
+| HTML5 Canvas | Rendering |
+| Tiled | Level design |
+
+
 ## Getting Started
 
 ```bash
