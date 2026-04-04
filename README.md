@@ -68,6 +68,19 @@ This project serves as an excellent example for developers interested in creatin
 ![Screenshot 5](https://raw.githubusercontent.com/khaled71612000/Phaser-Mini-Games/HEAD/Bomb Star Collect/assets/star.png)
 
 
+
+## Architecture
+
+Key classes and systems (from source code):
+
+- **`sceneMain.js`** — JS/TS module — 205 lines
+- **`gamePhaser.js`** — JS/TS module — exports: `preload`, `create`, `update`, `onPlayerCollect`, `x`
+- **`main.js`** — JS/TS module — 27 lines
+- **`UIBlock.js`** — JS/TS module — 272 lines
+- **`alignGrid.js`** — JS/TS module — 88 lines
+- **`game.js`** — JS/TS module — exports: `preload`, `create`, `update`, `resetPositions`, `ballHitsPaddle`
+
+
 ## Tech Stack
 
 | Technology | Role |
